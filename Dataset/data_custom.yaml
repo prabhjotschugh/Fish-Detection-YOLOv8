@@ -3,4 +3,4 @@ val: /kaggle/input/fishcustomdataset/Dataset/val
 
 nc: 4
 
-names: ['Chinook salmon', 'Humpback whale', 'Orca whale', 'Pecific herring']
+names: ['Chinook salmon', 'Humpback whale', 'Orca whale', 'Pacific herring']
