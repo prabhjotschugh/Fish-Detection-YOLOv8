@@ -1,0 +1,6 @@
+train: /kaggle/input/fishcustomdataset/Dataset/train
+val: /kaggle/input/fishcustomdataset/Dataset/val
+
+nc: 4
+
+names: ['Chinook salmon', 'Humpback whale', 'Orca whale', 'Pecific herring']
